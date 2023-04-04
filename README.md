@@ -4,6 +4,6 @@ Exercise on the implementation of Ocelot in the API Gateway concept incorporatin
 
 ## Technologies
 
-* [ASP.NET Core 6]
-* [Ocelot]
+* [ASP.NET Core 6](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core)
+* [Ocelot](https://github.com/ThreeMammals/Ocelot)
 * [JWT Token]
